@@ -9,8 +9,8 @@
 /_______  /\___|_  /|___|  \___/\____|__  / 
         \/       \/                     \/  
                     
-DISCORD :  https://discord.com/invite/xQF9f9yUEM                   
-YouTube : https://www.youtube.com/@GlaceYT                         
+DISCORD :  https://discord.gg/zxbjgb4CDT                   
+Twitch : https://www.twitch.tv/retry4_                         
                                                                        
 ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
 
@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["Bot oficial de Nix"];
-const statusTypes = [ 'dnd', 'idle'];
+const statusTypes = [ 'dnd'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
@@ -93,8 +93,8 @@ login();
 /_______  /\___|_  /|___|  \___/\____|__  / 
         \/       \/                     \/  
                     
-DISCORD :  https://discord.com/invite/xQF9f9yUEM                   
-YouTube : https://www.youtube.com/@GlaceYT                         
+DISCORD :  https://discord.gg/zxbjgb4CDT                   
+Twitch : https://www.twitch.tv/retry4_                         
                                                                        
 ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
 
